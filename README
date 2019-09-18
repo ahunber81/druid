@@ -2,7 +2,7 @@ Introduction
 ---
 * git clone https://github.com/alibaba/druid.git
 * cd druid && mvn install
-* have fun....
+* have fun.....
 
 Doucumentation
 ---
